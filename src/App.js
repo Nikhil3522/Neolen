@@ -13,7 +13,7 @@ function App() {
 
   return (
 
-    <div className="bg-gradient-to-br from-pink-600 via-yellow-300 to-green-400 p-6 h-screen sm:w-[120%] sm:h-full ">
+    <div className="bg-gradient-to-br from-pink-600 via-yellow-300 to-green-700 p-6 h-screen sm:w-[120%] sm:h-full ">
       <div className="px-6 pt-6 shadow-inner rounded-lg md:bg-opacity-75">
         <div className="flex justify-between ">
 
@@ -53,7 +53,7 @@ function App() {
             <div className="w-[65%] sm:w-[100%]">
               {/* <h1 className="text-7xl font-bold text-white border-t-8 border-b-8 border-white py-8 ">Develop</h1><h1> Faster,Better</h1> */}
               <h1 className="text-7xl md:text-6xl sm:text-6xl font-bold text-white overline pt-8 ">Develop</h1><h1 className="text-7xl md:text-6xl sm:text-6xl font-bold text-white underline underline-offset-[30px]"> Faster,Better</h1>
-              <p className="text-gray-200  mt-14">Technological advancements are changing the future of business and so can you. We can help you enhance your business with our faster and better services. To know more book a free appointment now.</p>
+              <p className="text-gray-200  mt-14 sm:text-white">Technological advancements are changing the future of business and so can you. We can help you enhance your business with our faster and better services. To know more book a free appointment now.</p>
               <button className="border-white border-solid border-2 p-2 px-6 rounded-lg text-white hover:shadow-md mt-14 ">Book an appointment</button>
             </div>
           </div>
