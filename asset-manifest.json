@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Neolen/static/css/main.8ba5b983.css",
+    "main.js": "/Neolen/static/js/main.d8b7817b.js",
+    "index.html": "/Neolen/index.html",
+    "main.8ba5b983.css.map": "/Neolen/static/css/main.8ba5b983.css.map",
+    "main.d8b7817b.js.map": "/Neolen/static/js/main.d8b7817b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ba5b983.css",
+    "static/js/main.d8b7817b.js"
+  ]
+}
